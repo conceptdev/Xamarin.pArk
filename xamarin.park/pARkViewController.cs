@@ -11,10 +11,6 @@ namespace Xamarin.pArk
     {
         ARView _arView;
 
-        public pARkViewController() : base("pARkViewController", null)
-        {
-        }
-
         public override void ViewDidLoad()
         {
             base.ViewDidLoad();
